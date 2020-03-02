@@ -1,0 +1,2 @@
+dodatok.py
+pause
