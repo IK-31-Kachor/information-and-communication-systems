@@ -1,6 +1,6 @@
 import math
 import datetime
-###################
+
 print('Hello!')
 name = input('What is your name? Write here: ')
 print('Hello ' + name + '!')
