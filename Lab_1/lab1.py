@@ -1,12 +1,12 @@
 import math
 import datetime
-###################
-print('Hello world!')
-name = input('What is your name? Print here: ')
+
+print('Hello!')
+name = input('What is your name? Write here: ')
 print('Hello ' + name + '!')
-print('Your name has', len(name), 'letters.')
+print('Your name has', len(name), 'Characters.')
 print('Factorial from the length of your name: ', math.factorial(len(name)))
-birth_date_string = input('Please, enter your birth date in format (YYYY.MM.DD): ')
+birth_date_string = input('Enter your birth date in format (YYYY.MM.DD): ')
 year, month, day = map(int, birth_date_string.split('.'))
 birth_date = datetime.date(year, month, day)
 now = datetime.date.today()
