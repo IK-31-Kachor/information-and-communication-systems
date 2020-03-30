@@ -10,11 +10,11 @@ Running:
  -  in order to log out of the server just victorist exit command.
  
  1. Using client-server application with localhost:
- 
+ ![1](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab3/Screenshots/1.PNG)
  2. Using clients connected is different computers:
- 
+ ![2](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab3/Screenshots/2.PNG)
  3. Using exit command:
- 
+ ![3](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab3/Screenshots/3.PNG)
  
  
 
