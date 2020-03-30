@@ -11,4 +11,10 @@ Running:
  
  1. Using client-server application with localhost:
  
+ 2. Using clients connected is different computers:
+ 
+ 3. Using exit command:
+ 
+ 
+ 
 
