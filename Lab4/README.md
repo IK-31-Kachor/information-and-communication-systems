@@ -14,7 +14,7 @@
   - echo - testing sending message(echo message for testing);
   - exit - shutdown client;
   - login - log in on server or create new user(login user_login user_password);
-    ![13]()
+    ![13](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/13.PNG)
   - list - Displays active users;
   - msg - send message to user(msg to_user text message);
   - file - send file to user(file to_user /path/to/file);     
