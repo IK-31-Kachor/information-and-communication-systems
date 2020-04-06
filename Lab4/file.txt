@@ -1,2 +1,2 @@
-Distributed Systems Seminars: 3. Remote Method Invocation
+Distributed Systems Seminars 3
 File for sending.
