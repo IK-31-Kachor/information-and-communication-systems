@@ -24,9 +24,9 @@
   - exit - shutdown client;
   - login - log in on server or create new user(login user_login user_password);
     ![13](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/13.PNG)
+    
   - list - Displays active users;
-  
-     ![18](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/18.PNG)
+    ![18](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/18.PNG)
   
   - msg - send message to user(msg to_user text message);
   
