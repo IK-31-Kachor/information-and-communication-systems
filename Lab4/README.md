@@ -10,7 +10,7 @@
   ![12](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/12.PNG)
   
 4. You can send the command to the server after the client has started. You can view them in the directory list using the help command:
-   ![10]() 
+   ![10](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/10.PNG) 
  
   - ping - testing connection;
   
