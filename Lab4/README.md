@@ -11,7 +11,7 @@
   
 4. You can send the command to the server after the client has started. You can view them in the directory list using the help command:
   - ping - testing connection;
-    ![15]()
+    ![15](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/15.PNG)
   
   - echo - testing sending message(echo message for testing);
     ![14](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/14.PNG)
@@ -21,6 +21,7 @@
     ![13](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/13.PNG)
   - list - Displays active users;
   - msg - send message to user(msg to_user text message);
-    ![16]()
+    ![16](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/16.PNG)
+    
   - file - send file to user(file to_user /path/to/file);     
        
