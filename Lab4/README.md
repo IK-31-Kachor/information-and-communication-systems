@@ -11,8 +11,8 @@
   
 4. You can send the command to the server after the client has started. You can view them in the directory list using the help command:
   - ping - testing connection;
-  - echo - testing sending message(echo message for testing);
   
+  - echo - testing sending message(echo message for testing);
     ![14](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/14.PNG)
     
   - exit - shutdown client;
