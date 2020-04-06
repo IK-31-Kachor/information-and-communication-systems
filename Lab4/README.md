@@ -13,7 +13,7 @@
 
    ![10](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/10.PNG) 
  
-  - ping - testing connection;
+  - ping - testing connection;1
   
     ![15](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/15.PNG)
   
