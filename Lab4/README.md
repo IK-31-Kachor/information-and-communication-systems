@@ -7,4 +7,12 @@
 
 3. Now run the client as follows:  
     - mvn clean compile exec:java -D exec.args="0.0.0.0 4730"
-  ![12]()
+  ![12](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/12.PNG)
+  
+4. You can send the command to the server after the client has started. You can view them in the directory list using the help command:
+  - ping - testing connection;
+  - echo - testing sending message;
+  - exit - shutdown client;
+  - login - log in on server or create new user;
+  - list - Displays active users;
+  - msg - send message to user;
