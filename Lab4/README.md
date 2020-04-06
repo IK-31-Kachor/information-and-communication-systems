@@ -28,5 +28,5 @@
     
   - file - send file to user(file to_user /path/to/file); 
     
-    ![17]()    
+    ![17](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/17.PNG)    
        
