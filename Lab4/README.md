@@ -13,7 +13,7 @@
 
    ![10](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/10.PNG) 
  
-  - ping - testing connection;
+  - ping - testing connection;1
   
     ![15](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/15.PNG)
   
@@ -25,6 +25,8 @@
   - login - log in on server or create new user(login user_login user_password);
     ![13](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/13.PNG)
   - list - Displays active users;
+    ![18]()
+  
   - msg - send message to user(msg to_user text message);
   
     ![16](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/16.PNG)
