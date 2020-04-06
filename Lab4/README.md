@@ -5,4 +5,6 @@
     - mvn clean compile exec:java -D exec.args="4730"
   ![11](https://github.com/IK-31-Kachor/information-and-communication-systems/blob/master/Lab4/Screenshots/11.PNG)
 
-3.       
+3. Now run the client as follows:  
+    - mvn clean compile exec:java -D exec.args="0.0.0.0 4730"
+  ![12]()

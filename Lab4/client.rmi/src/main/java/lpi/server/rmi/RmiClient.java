@@ -9,7 +9,7 @@ import java.rmi.registry.Registry;
 public class RmiClient implements Closeable {
 
     private static final String DEFAULT_HOST = "0.0.0.0";
-    private static final int DEFAULT_PORT = 4321;
+    private static final int DEFAULT_PORT = 4730;
 
     private String host = DEFAULT_HOST;
     private int port = DEFAULT_PORT;
