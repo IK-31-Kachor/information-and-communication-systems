@@ -4,7 +4,7 @@
 1. To run the server and client, you must use Java version 1.8 or later and the Maven tool.
 2. First, you need to start the server. To do this, run the following command in the console or terminal from a folder with the rmi server.You also need to enter the port, but you can drop them.
 
-      mvn clean compile exec:java -D exec.args="localhost 8080"
+       mvn clean compile exec:java -D exec.args="localhost 8080"
 
    * arguments(args) can be yours (you need to enter the `host` and `port`), and you can omit them (the server will run with these settings is the default).
    
