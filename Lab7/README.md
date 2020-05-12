@@ -20,7 +20,7 @@
 ## Commands:
 
 #### `ping`
-Testing connection (no parameters).
+Testing connection.
 
 #### `echo`
 Testing sending message. Enter the command and message for echo:
