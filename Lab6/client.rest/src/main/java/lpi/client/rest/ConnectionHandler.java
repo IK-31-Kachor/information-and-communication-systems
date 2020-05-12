@@ -45,7 +45,7 @@ public class ConnectionHandler implements Closeable {
     }
 
     public void run() {
-        System.out.println("Hello, what do you want to do?");
+        System.out.println("Hi,what commands do you want to use?");
         System.out.println("Use the \"help\" command to get help.\n");
 
         try{

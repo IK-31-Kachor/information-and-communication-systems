@@ -45,4 +45,3 @@ Send file to user. Has 2 parameters (recipient login, path to file):
     file to_user /path/to/file
 
 #### `exit`
-Shutdown the client;
