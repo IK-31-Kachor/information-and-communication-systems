@@ -7,14 +7,14 @@
 ## Implementation:
 1. First, you need to start the server. To do this, run the following command in the console or terminal from a folder with the rmi server.You also need to enter the port, but you can drop them
 
-       mvn clean compile exec:java -D exec.args="0.0.0.0 61616"
+       mvn clean compile exec:java -D exec.args="0.0.0.0 60457"
 
    * arguments(args) can be yours (you need to enter the `host` and `port`), and you can omit them (the server will run with `"localhost 616161"` settings by default).
    
 2. Open client folder in console or terminal;
 3. Now run the client as follows:
 
-       mvn clean compile exec:java -D exec.args="localhost 61616"
+       mvn clean compile exec:java -D exec.args="localhost 60457"
 
 
 ## Commands:
